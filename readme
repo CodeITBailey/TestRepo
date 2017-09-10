@@ -1,7 +1,9 @@
+more changes from footbar to see what i can break again...
+
 this is a new project
 welp we are at this again
 
-adding more info to the read me file
+adding more info to the read me file  -  added from foobar
 
 
 information has been updated, for merge testing
@@ -11,3 +13,11 @@ information has been updated, for merge testing
 
 line was added here to testout merging files and what not while using git
 
+<<<<<<< HEAD
+=======
+
+
+
+
+
+>>>>>>> foobar
